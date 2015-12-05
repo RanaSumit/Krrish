@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Flame
-comment0.text=\n\ Write\ a\ description\ of\ class\ Flame\ here.\n\ \n\ @author\ (Dusty)\ \n\ @version\ (1.0)\n
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Flame\ here.\r\n\ \r\n\ @author\ (Dusty)\ \r\n\ @version\ (1.0)\r\n
 comment1.params=i
 comment1.target=Flame(int)
 comment2.params=i\ ii
@@ -9,7 +9,7 @@ comment3.params=item
 comment3.target=Flame(java.lang.String)
 comment4.params=
 comment4.target=void\ act()
-comment4.text=\n\ Act\ -\ do\ whatever\ the\ Flame\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Flame\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
 comment5.params=
 comment5.target=void\ shrink()
 comment6.params=

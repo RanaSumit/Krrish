@@ -8,5 +8,5 @@ comment3.params=
 comment3.target=void\ update()
 comment4.params=
 comment4.target=void\ updateImage()
-comment4.text=\n\ Make\ the\ image\n
+comment4.text=\r\n\ Make\ the\ image\r\n
 numComments=5
