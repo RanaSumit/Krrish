@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Krrish Greenfoot Game
+VERSION: 1.0
+HOW TO START THIS PROJECT: 
+1. Install Greenfoot on your PC (Windows/Mac/Linux).
+2. Clone the game on from github.
+3. Import the game as a project in greenfoot.
+4. Click Run.
+5. Follow user instructions on UI of the game.
+AUTHORS: Sumit Rana
