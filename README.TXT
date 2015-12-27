@@ -1,4 +1,4 @@
-PROJECT TITLE: Krrish Greenfoot Game
+PROJECT TITLE: Krrish Vs Kaal (Greenfoot Game)
 VERSION: 1.0
 HOW TO START THIS PROJECT: 
 1. Install Greenfoot on your PC (Windows/Mac/Linux).
