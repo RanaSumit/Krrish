@@ -153,7 +153,7 @@ public class GameScreen extends Screen implements ISubject{
             if (!levelUp.isPlaying()) {
                 addAsteroids(level + 1);
                 ++level;
-                if(level%3 == 0 & healthbar.health <=4)
+                if(level%3 == 0 & healthbar.health <4)
                 {
                     healthbar.increaseHealth();
                     System.out.println("Increased health: " + healthbar.health);

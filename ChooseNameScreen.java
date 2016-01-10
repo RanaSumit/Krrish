@@ -22,11 +22,11 @@ public class ChooseNameScreen extends Screen
     public void act(){
         
        if(Greenfoot.isKeyDown("a")) {
-           userName = "Jag";
+           userName = "Jaggi";
            setScreen(new ModesScreen());
            }
        if(Greenfoot.isKeyDown("b")) {
-           userName = "Jas";
+           userName = "Jassi";
            setScreen(new ModesScreen());
          }
        if(Greenfoot.isKeyDown("c")) {
